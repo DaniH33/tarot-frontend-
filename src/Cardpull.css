@@ -1,0 +1,22 @@
+.tarot-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #cfb455;
+    /* other styling properties */
+}
+body {
+    background: linear-gradient(135deg, #ffa07a, #87ceeb, #90ee90);
+    /* You can adjust the colors and direction as desired */
+}
+
+/* Target the buttons */
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* Add margin at the top */
+}
+
+/* Style for individual buttons */
+.button-container button {
+    padding: 10px 20px;
+}
